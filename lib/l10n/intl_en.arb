@@ -1,0 +1,40 @@
+{
+
+  "tittle" : "Hello" ,
+  "subtittle" : "Welcom to your app",
+  "hintsearch" :"Search...",
+  "medsearch": "Medicine",
+  "catsearch": "Category",
+  "AllCompanies" : "All Companies",
+  "MyFavorite" : "My Favorite",
+  "Settings": "Settings",
+  "Profile" : "Profile",
+  "InfoProfile" : "Info Profile",
+  "Notifications" :"Notifications",
+  "Privacy" : "Privacy",
+  "language" : "Language",
+  "LogOut" : "Log Out",
+  "Cart" : "Cart",
+  "TotalPrice" : "TotalPrice",
+  "CheckOut" :"Check Out",
+  "MyOrders": "My Orders",
+  "Paid": "Paid",
+  "NotPaid" : "NotPaid",
+  "Total": "Total",
+  "OrderState" :  "OrderState",
+  "PaymentState" : "PaymentState",
+  "DeaitilsofOrder" : "Deaitils of Order",
+  "Quantity": "Quantity",
+  "Price":"Price",
+  "Deatils": "Deatils",
+  "AllCategories" :"All Categories",
+  "Categories":"Categories",
+  "AllMedicines" : "All Medicines",
+  "Medicines": "Medicines",
+  "DeatilsMedicin":"DeatilsMedicin",
+  "ADDTOCART" : "ADD TO CART",
+  "Expires": "Expires"
+
+
+
+}

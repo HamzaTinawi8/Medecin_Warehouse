@@ -1,0 +1,43 @@
+{
+
+    "tittle" : "مرحبا",
+    "subtittle" : "أهلا بك بتطبيقك",
+    "hintsearch" :"ابحث ...",
+    "medsearch": "دواء",
+    "catsearch": "تصنيف" ,
+    "AllCompanies" : "  كل الشركات",
+    "MyFavorite" : "المفضلة",
+    "Settings": "الإعدادات",
+    "Profile" : "الملف الشخصي",
+    "InfoProfile" : "معلومات الحساب",
+    "Notifications" : "الإشعارات",
+    "Privacy" : "الخصوصية",
+    "language" : "اللغة" ,
+    "LogOut" : "تسجيل الخروج",
+    "Cart" : "السلة",
+    "TotalPrice" : "السعر الكلي",
+    "CheckOut":"اطلب",
+    "MyOrders" : "طلباتي",
+    "Paid": "مدفوع",
+    "NotPaid" : "غير مدفوع",
+    "Total": "السعر",
+    "OrderState" :  "حالة الطلب",
+    "PaymentState" : "حالة الدفع",
+    "DeaitilsofOrder" : "تفاصيل االطلب",
+    "Quantity": "الكمية",
+    "Price":"السعر",
+    "Deatils": "التفاصيل",
+    "AllCategories" : "كل التصنيفات",
+    "Categories":"التصنيفات",
+    "AllMedicines" : "كل الأدوية",
+    "Medicines":"الأدوية",
+    "DeatilsMedicin":"تفاصيل الدواء",
+    "ADDTOCART" : "اضافة للسلة",
+    "Expires":"التاريخ"
+
+
+
+
+
+
+}
